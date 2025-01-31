@@ -1,4 +1,10 @@
-
+@author:DAVID MUCHIRI 
+ADM :CT101/G/19119/23.
+CS Y2 S2
+@VERSION 1.0.1
+DATE : 1/19/2025
+6:40 PM
+*/
 
 /*Program that calculate discount according to the value
  assigned to the price variable. The program uses functions
