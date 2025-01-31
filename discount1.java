@@ -1,7 +1,4 @@
-//NAME : Doris Nduta
-//REG NO : CT101/G/21006/23
-//DATE : 22/01/2025
-//ASSIGNMENT : 2
+
 
 /*Program that calculate discount according to the value
  assigned to the price variable. The program uses functions
