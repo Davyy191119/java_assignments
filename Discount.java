@@ -1,7 +1,4 @@
-//NAME : Doris Nduta
-//REG NO : CT101/G/21006/23
-//DATE : 22/01/2025
-//ASSIGNMENT : 2
+
 
 /*Program that calculates discount using a function which is called
 in then called in the main function. The program allows user input of the price. */
