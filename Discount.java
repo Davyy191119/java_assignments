@@ -1,4 +1,10 @@
-
+@author:DAVID MUCHIRI 
+ADM :CT101/G/19119/23.
+CS Y2 S2
+@VERSION 1.0.1
+DATE : 1/19/2025
+6:40 PM
+*/
 
 /*Program that calculates discount using a function which is called
 in then called in the main function. The program allows user input of the price. */
