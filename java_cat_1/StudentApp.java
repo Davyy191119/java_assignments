@@ -1,3 +1,16 @@
+/**
+>This IS A PROGRAM NAMED @StudentApp that uses Displayinfo method to display a students information
+
+
+@author:DAVID MUCHIRI 
+ADM :CT101/G/19119/23.
+CS Y2 S2
+@VERSION 1.0.1
+DATE : 2/14/2025
+6:40 PM
+*/
+
+
 import java.util.Scanner;
 
 public class StudentApp {
